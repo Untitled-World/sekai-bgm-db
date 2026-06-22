@@ -1,0 +1,2602 @@
+[
+    {
+        "id": 1,
+        "title": "With Gratitude",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+        "assetbundleFileName": "bgm_area00001",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 3029602,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 68.698
+        }
+    },
+    {
+        "id": 2,
+        "title": "Crystal Blessing",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+        "assetbundleFileName": "bgm_area00001",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 3029602,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 68.698
+        }
+    },
+    {
+        "id": 3,
+        "title": "キミだけの足跡",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+        "assetbundleFileName": "bgm_area00001",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 3029602,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 68.698
+        }
+    },
+    {
+        "id": 101,
+        "title": "一緒に歌おう！",
+        "assetbundleName": "mysekai/sound/bgm/music0001",
+        "assetbundleFileName": "music0001",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1395840,
+            "loop_end_sample": 4001472,
+            "loop_start_sec": 31.652,
+            "loop_end_sec": 90.736
+        }
+    },
+    {
+        "id": 103,
+        "title": "Our Town, Our Life",
+        "assetbundleName": "mysekai/sound/bgm/music0002",
+        "assetbundleFileName": "music0002",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 60544,
+            "loop_end_sample": 2882919,
+            "loop_start_sec": 1.373,
+            "loop_end_sec": 65.372
+        }
+    },
+    {
+        "id": 104,
+        "title": "斜陽に照らされて",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00001",
+        "assetbundleFileName": "bgm_area00001",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 3029602,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 68.698
+        }
+    },
+    {
+        "id": 105,
+        "title": "笑顔をお届け！",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00002",
+        "assetbundleFileName": "bgm_area00002",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2400004,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 54.422
+        }
+    },
+    {
+        "id": 106,
+        "title": "Street Crews",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00003",
+        "assetbundleFileName": "bgm_area00003",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2871868,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 65.122
+        }
+    },
+    {
+        "id": 107,
+        "title": "音楽隊はどこまでも",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00004",
+        "assetbundleFileName": "bgm_area00004",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2689722,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 60.991
+        }
+    },
+    {
+        "id": 108,
+        "title": "心景",
+        "assetbundleName": "sound/scenario/bgm/bgm_area00005",
+        "assetbundleFileName": "bgm_area00005",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 8330646,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 188.904
+        }
+    },
+    {
+        "id": 109,
+        "title": "Crossing World",
+        "assetbundleName": "mysekai/sound/bgm/music0003",
+        "assetbundleFileName": "music0003",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2683952,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 60.861
+        }
+    },
+    {
+        "id": 110,
+        "title": "響声の息吹",
+        "assetbundleName": "mysekai/sound/bgm/music0004",
+        "assetbundleFileName": "music0004",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 78976,
+            "loop_end_sample": 2065024,
+            "loop_start_sec": 1.791,
+            "loop_end_sec": 46.826
+        }
+    },
+    {
+        "id": 111,
+        "title": "手と手をつないで",
+        "assetbundleName": "mysekai/sound/bgm/music0005",
+        "assetbundleFileName": "music0005",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 109696,
+            "loop_end_sample": 2798016,
+            "loop_start_sec": 2.487,
+            "loop_end_sec": 63.447
+        }
+    },
+    {
+        "id": 112,
+        "title": "辿った軌跡",
+        "assetbundleName": "mysekai/sound/bgm/music0006",
+        "assetbundleFileName": "music0006",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 85120,
+            "loop_end_sample": 2400901,
+            "loop_start_sec": 1.93,
+            "loop_end_sec": 54.442
+        }
+    },
+    {
+        "id": 113,
+        "title": "Many Times With You",
+        "assetbundleName": "mysekai/sound/bgm/music0007",
+        "assetbundleFileName": "music0007",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 158848,
+            "loop_end_sample": 1423159,
+            "loop_start_sec": 3.602,
+            "loop_end_sec": 32.271
+        }
+    },
+    {
+        "id": 114,
+        "title": "Journey Beats",
+        "assetbundleName": "mysekai/sound/bgm/music0008",
+        "assetbundleFileName": "music0008",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 158848,
+            "loop_end_sample": 1252277,
+            "loop_start_sec": 3.602,
+            "loop_end_sec": 28.396
+        }
+    },
+    {
+        "id": 115,
+        "title": "想いの結晶は希う",
+        "assetbundleName": "mysekai/sound/bgm/music0009",
+        "assetbundleFileName": "music0009",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 103552,
+            "loop_end_sample": 2873065,
+            "loop_start_sec": 2.348,
+            "loop_end_sec": 65.149
+        }
+    },
+    {
+        "id": 116,
+        "title": "Slapstick!!",
+        "assetbundleName": "sound/scenario/bgm/bgm00003",
+        "assetbundleFileName": "bgm00003",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2097082,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 47.553
+        }
+    },
+    {
+        "id": 117,
+        "title": "微笑みの陽だまり",
+        "assetbundleName": "sound/scenario/bgm/bgm00006",
+        "assetbundleFileName": "bgm00006",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 1768757,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 40.108
+        }
+    },
+    {
+        "id": 118,
+        "title": "道化師の行進",
+        "assetbundleName": "sound/scenario/bgm/bgm00015",
+        "assetbundleFileName": "bgm00015",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2254738,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 51.128
+        }
+    },
+    {
+        "id": 119,
+        "title": "涙、心つたって",
+        "assetbundleName": "sound/scenario/bgm/bgm00016",
+        "assetbundleFileName": "bgm00016",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1152,
+            "loop_end_sample": 2443728,
+            "loop_start_sec": 0.026,
+            "loop_end_sec": 55.413
+        }
+    },
+    {
+        "id": 120,
+        "title": "想いはきっと…",
+        "assetbundleName": "sound/scenario/bgm/bgm00017",
+        "assetbundleFileName": "bgm00017",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 1969822,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 44.667
+        }
+    },
+    {
+        "id": 121,
+        "title": "今、ここにある日常",
+        "assetbundleName": "sound/scenario/bgm/bgm00018",
+        "assetbundleFileName": "bgm00018",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2791041,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 63.289
+        }
+    },
+    {
+        "id": 122,
+        "title": "ウキウキな季節",
+        "assetbundleName": "sound/scenario/bgm/bgm00020",
+        "assetbundleFileName": "bgm00020",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2496282,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 56.605
+        }
+    },
+    {
+        "id": 123,
+        "title": "黄昏のパレード",
+        "assetbundleName": "sound/scenario/bgm/bgm00032",
+        "assetbundleFileName": "bgm00032",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2177282,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 49.371
+        }
+    },
+    {
+        "id": 124,
+        "title": "張りつめた糸",
+        "assetbundleName": "sound/scenario/bgm/bgm00038",
+        "assetbundleFileName": "bgm00038",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 201856,
+            "loop_end_sample": 3198036,
+            "loop_start_sec": 4.577,
+            "loop_end_sec": 72.518
+        }
+    },
+    {
+        "id": 125,
+        "title": "Pretty Good Days",
+        "assetbundleName": "sound/scenario/bgm/bgm00045",
+        "assetbundleFileName": "bgm00045",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 220288,
+            "loop_end_sample": 1826470,
+            "loop_start_sec": 4.995,
+            "loop_end_sec": 41.417
+        }
+    },
+    {
+        "id": 126,
+        "title": "光射す未来へ",
+        "assetbundleName": "sound/scenario/bgm/bgm00048",
+        "assetbundleFileName": "bgm00048",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 737408,
+            "loop_end_sample": 2754304,
+            "loop_start_sec": 16.721,
+            "loop_end_sec": 62.456
+        }
+    },
+    {
+        "id": 128,
+        "title": "青春フルスロットル！",
+        "assetbundleName": "sound/scenario/bgm/bgm00052",
+        "assetbundleFileName": "bgm00052",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 109696,
+            "loop_end_sample": 1475315,
+            "loop_start_sec": 2.487,
+            "loop_end_sec": 33.454
+        }
+    },
+    {
+        "id": 129,
+        "title": "青く燃やせ、その心を",
+        "assetbundleName": "sound/scenario/bgm/bgm00053",
+        "assetbundleFileName": "bgm00053",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 516224,
+            "loop_end_sample": 3065795,
+            "loop_start_sec": 11.706,
+            "loop_end_sec": 69.519
+        }
+    },
+    {
+        "id": 130,
+        "title": "Not Bad Afternoon",
+        "assetbundleName": "sound/scenario/bgm/bgm00054",
+        "assetbundleFileName": "bgm00054",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 522368,
+            "loop_end_sample": 4593172,
+            "loop_start_sec": 11.845,
+            "loop_end_sec": 104.154
+        }
+    },
+    {
+        "id": 131,
+        "title": "深き眼差し",
+        "assetbundleName": "sound/scenario/bgm/bgm00055",
+        "assetbundleFileName": "bgm00055",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 952448,
+            "loop_end_sample": 3330245,
+            "loop_start_sec": 21.597,
+            "loop_end_sec": 75.516
+        }
+    },
+    {
+        "id": 132,
+        "title": "虹色ガーランド",
+        "assetbundleName": "sound/scenario/bgm/bgm00056",
+        "assetbundleFileName": "bgm00056",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1666176,
+            "loop_end_sample": 4749466,
+            "loop_start_sec": 37.782,
+            "loop_end_sec": 107.698
+        }
+    },
+    {
+        "id": 133,
+        "title": "煌びやかな幕開け",
+        "assetbundleName": "sound/scenario/bgm/bgm00059",
+        "assetbundleFileName": "bgm00059",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 226432,
+            "loop_end_sample": 2736676,
+            "loop_start_sec": 5.135,
+            "loop_end_sec": 62.056
+        }
+    },
+    {
+        "id": 134,
+        "title": "聖なる夜の贈りもの",
+        "assetbundleName": "sound/scenario/bgm/bgm00060",
+        "assetbundleFileName": "bgm00060",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 405632,
+            "loop_end_sample": 3359157,
+            "loop_start_sec": 9.198,
+            "loop_end_sec": 76.171
+        }
+    },
+    {
+        "id": 135,
+        "title": "新たな気持ちで",
+        "assetbundleName": "sound/scenario/bgm/bgm00062",
+        "assetbundleFileName": "bgm00062",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 651392,
+            "loop_end_sample": 4265504,
+            "loop_start_sec": 14.771,
+            "loop_end_sec": 96.723
+        }
+    },
+    {
+        "id": 136,
+        "title": "存在する孤独",
+        "assetbundleName": "sound/scenario/bgm/bgm00065",
+        "assetbundleFileName": "bgm00065",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 608384,
+            "loop_end_sample": 3216619,
+            "loop_start_sec": 13.796,
+            "loop_end_sec": 72.939
+        }
+    },
+    {
+        "id": 137,
+        "title": "STAND OUT!!",
+        "assetbundleName": "sound/scenario/bgm/bgm00067",
+        "assetbundleFileName": "bgm00067",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 128128,
+            "loop_end_sample": 2009766,
+            "loop_start_sec": 2.905,
+            "loop_end_sec": 45.573
+        }
+    },
+    {
+        "id": 138,
+        "title": "桜舞う季節に",
+        "assetbundleName": "sound/scenario/bgm/bgm00068",
+        "assetbundleFileName": "bgm00068",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 325760,
+            "loop_end_sample": 2442944,
+            "loop_start_sec": 7.387,
+            "loop_end_sec": 55.396
+        }
+    },
+    {
+        "id": 139,
+        "title": "新しい一歩を",
+        "assetbundleName": "sound/scenario/bgm/bgm00069",
+        "assetbundleFileName": "bgm00069",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 158848,
+            "loop_end_sample": 2223433,
+            "loop_start_sec": 3.602,
+            "loop_end_sec": 50.418
+        }
+    },
+    {
+        "id": 140,
+        "title": "高原の景色を君と",
+        "assetbundleName": "sound/scenario/bgm/bgm00077",
+        "assetbundleFileName": "bgm00077",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 835712,
+            "loop_end_sample": 2790095,
+            "loop_start_sec": 18.95,
+            "loop_end_sec": 63.267
+        }
+    },
+    {
+        "id": 141,
+        "title": "これからも、キミの隣で",
+        "assetbundleName": "mysekai/sound/bgm/music0010",
+        "assetbundleFileName": "music0010",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1481856,
+            "loop_end_sample": 4250251,
+            "loop_start_sec": 33.602,
+            "loop_end_sec": 96.378
+        }
+    },
+    {
+        "id": 142,
+        "title": "My name is...",
+        "assetbundleName": "mysekai/sound/bgm/music0011",
+        "assetbundleFileName": "music0011",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 817280,
+            "loop_end_sample": 3895356,
+            "loop_start_sec": 18.532,
+            "loop_end_sec": 88.33
+        }
+    },
+    {
+        "id": 143,
+        "title": "貴方への誓い",
+        "assetbundleName": "sound/scenario/bgm/bgm00079",
+        "assetbundleFileName": "bgm00079",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1327232,
+            "loop_end_sample": 5030995,
+            "loop_start_sec": 30.096,
+            "loop_end_sec": 114.082
+        }
+    },
+    {
+        "id": 144,
+        "title": "Breakthrough",
+        "assetbundleName": "sound/scenario/bgm/bgm00086",
+        "assetbundleFileName": "bgm00086",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 189568,
+            "loop_end_sample": 3421914,
+            "loop_start_sec": 4.299,
+            "loop_end_sec": 77.594
+        }
+    },
+    {
+        "id": 145,
+        "title": "祭り囃子は夏夜に響き",
+        "assetbundleName": "sound/scenario/bgm/bgm00087",
+        "assetbundleFileName": "bgm00087",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 214144,
+            "loop_end_sample": 3036801,
+            "loop_start_sec": 4.856,
+            "loop_end_sec": 68.862
+        }
+    },
+    {
+        "id": 146,
+        "title": "Glitter Beach",
+        "assetbundleName": "sound/scenario/bgm/bgm00090",
+        "assetbundleFileName": "bgm00090",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 497792,
+            "loop_end_sample": 2452175,
+            "loop_start_sec": 11.288,
+            "loop_end_sec": 55.605
+        }
+    },
+    {
+        "id": 147,
+        "title": "わがままFairy",
+        "assetbundleName": "sound/scenario/bgm/bgm00091",
+        "assetbundleFileName": "bgm00091",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 675968,
+            "loop_end_sample": 4328118,
+            "loop_start_sec": 15.328,
+            "loop_end_sec": 98.143
+        }
+    },
+    {
+        "id": 148,
+        "title": "勇気を出して、その一歩を",
+        "assetbundleName": "sound/scenario/bgm/bgm00092",
+        "assetbundleFileName": "bgm00092",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 97408,
+            "loop_end_sample": 4611151,
+            "loop_start_sec": 2.209,
+            "loop_end_sec": 104.561
+        }
+    },
+    {
+        "id": 149,
+        "title": "月のうさぎは微笑んで",
+        "assetbundleName": "sound/scenario/bgm/bgm00093",
+        "assetbundleFileName": "bgm00093",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 263296,
+            "loop_end_sample": 3183225,
+            "loop_start_sec": 5.97,
+            "loop_end_sec": 72.182
+        }
+    },
+    {
+        "id": 150,
+        "title": "優しい星霜",
+        "assetbundleName": "sound/scenario/bgm/bgm00024",
+        "assetbundleFileName": "bgm00024",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1152,
+            "loop_end_sample": 2117266,
+            "loop_start_sec": 0.026,
+            "loop_end_sec": 48.011
+        }
+    },
+    {
+        "id": 151,
+        "title": "愛しい人へ",
+        "assetbundleName": "sound/scenario/bgm/bgm00029",
+        "assetbundleFileName": "bgm00029",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 1308425,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 29.67
+        }
+    },
+    {
+        "id": 152,
+        "title": "真・愛のテーマ～True Love Song～",
+        "assetbundleName": "sound/scenario/bgm/bgm00057",
+        "assetbundleFileName": "bgm00057",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 319616,
+            "loop_end_sample": 3384211,
+            "loop_start_sec": 7.248,
+            "loop_end_sec": 76.739
+        }
+    },
+    {
+        "id": 153,
+        "title": "“We are in the springtime of life!”",
+        "assetbundleName": "sound/scenario/bgm/bgm00096",
+        "assetbundleFileName": "bgm00096",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 195712,
+            "loop_end_sample": 3504019,
+            "loop_start_sec": 4.438,
+            "loop_end_sec": 79.456
+        }
+    },
+    {
+        "id": 154,
+        "title": "Protostar",
+        "assetbundleName": "sound/scenario/bgm/bgm00094",
+        "assetbundleFileName": "bgm00094",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 835712,
+            "loop_end_sample": 3441455,
+            "loop_start_sec": 18.95,
+            "loop_end_sec": 78.038
+        }
+    },
+    {
+        "id": 155,
+        "title": "Birthday Celebrations!",
+        "assetbundleName": "sound/scenario/bgm/bgm00097",
+        "assetbundleFileName": "bgm00097",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 3391873,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 76.913
+        }
+    },
+    {
+        "id": 156,
+        "title": "Now or Never",
+        "assetbundleName": "sound/scenario/bgm/bgm00098",
+        "assetbundleFileName": "bgm00098",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 134272,
+            "loop_end_sample": 1654870,
+            "loop_start_sec": 3.045,
+            "loop_end_sec": 37.525
+        }
+    },
+    {
+        "id": 157,
+        "title": "マジカルタイム♪",
+        "assetbundleName": "sound/scenario/bgm/bgm00101",
+        "assetbundleFileName": "bgm00101",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 381056,
+            "loop_end_sample": 4145026,
+            "loop_start_sec": 8.641,
+            "loop_end_sec": 93.992
+        }
+    },
+    {
+        "id": 158,
+        "title": "雪の下、微かなぬくもり",
+        "assetbundleName": "sound/scenario/bgm/bgm00109",
+        "assetbundleFileName": "bgm00109",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 232576,
+            "loop_end_sample": 3760737,
+            "loop_start_sec": 5.274,
+            "loop_end_sec": 85.277
+        }
+    },
+    {
+        "id": 159,
+        "title": "MORE MORE Happy Xmas night♪",
+        "assetbundleName": "sound/scenario/bgm/bgm00111",
+        "assetbundleFileName": "bgm00111",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 220288,
+            "loop_end_sample": 3606866,
+            "loop_start_sec": 4.995,
+            "loop_end_sec": 81.788
+        }
+    },
+    {
+        "id": 160,
+        "title": "清らかな気持ちで",
+        "assetbundleName": "mysekai/sound/bgm/music0012",
+        "assetbundleFileName": "music0012",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 331904,
+            "loop_end_sample": 4035888,
+            "loop_start_sec": 7.526,
+            "loop_end_sec": 91.517
+        }
+    },
+    {
+        "id": 161,
+        "title": "優雅にハッピーニューイヤー！",
+        "assetbundleName": "mysekai/sound/bgm/music0013",
+        "assetbundleFileName": "music0013",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 430208,
+            "loop_end_sample": 3035755,
+            "loop_start_sec": 9.755,
+            "loop_end_sec": 68.838
+        }
+    },
+    {
+        "id": 162,
+        "title": "幸福の門出を",
+        "assetbundleName": "mysekai/sound/bgm/music0014",
+        "assetbundleFileName": "music0014",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 189568,
+            "loop_end_sample": 3143036,
+            "loop_start_sec": 4.299,
+            "loop_end_sec": 71.271
+        }
+    },
+    {
+        "id": 163,
+        "title": "At the backstage",
+        "assetbundleName": "mysekai/sound/bgm/music0015",
+        "assetbundleFileName": "music0015",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 91264,
+            "loop_end_sample": 2695464,
+            "loop_start_sec": 2.069,
+            "loop_end_sec": 61.122
+        }
+    },
+    {
+        "id": 164,
+        "title": "Let's have a match!!",
+        "assetbundleName": "mysekai/sound/bgm/music0016",
+        "assetbundleFileName": "music0016",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 78976,
+            "loop_end_sample": 1530682,
+            "loop_start_sec": 1.791,
+            "loop_end_sec": 34.709
+        }
+    },
+    {
+        "id": 165,
+        "title": "初御空の下で",
+        "assetbundleName": "sound/scenario/bgm/bgm00116",
+        "assetbundleFileName": "bgm00116",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 424064,
+            "loop_end_sample": 3235217,
+            "loop_start_sec": 9.616,
+            "loop_end_sec": 73.361
+        }
+    },
+    {
+        "id": 166,
+        "title": "秘密のレシピ",
+        "assetbundleName": "sound/scenario/bgm/bgm00122",
+        "assetbundleFileName": "bgm00122",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 295040,
+            "loop_end_sample": 3935575,
+            "loop_start_sec": 6.69,
+            "loop_end_sec": 89.242
+        }
+    },
+    {
+        "id": 167,
+        "title": "チョコレートファクトリーは大忙し",
+        "assetbundleName": "sound/scenario/bgm/bgm00127",
+        "assetbundleFileName": "bgm00127",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 387200,
+            "loop_end_sample": 3798485,
+            "loop_start_sec": 8.78,
+            "loop_end_sec": 86.133
+        }
+    },
+    {
+        "id": 168,
+        "title": "What if...?",
+        "assetbundleName": "sound/scenario/bgm/bgm00130",
+        "assetbundleFileName": "bgm00130",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 958592,
+            "loop_end_sample": 5902684,
+            "loop_start_sec": 21.737,
+            "loop_end_sec": 133.848
+        }
+    },
+    {
+        "id": 169,
+        "title": "幸せを数えて",
+        "assetbundleName": "sound/scenario/bgm/bgm00135",
+        "assetbundleFileName": "bgm00135",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 510080,
+            "loop_end_sample": 5998049,
+            "loop_start_sec": 11.566,
+            "loop_end_sec": 136.01
+        }
+    },
+    {
+        "id": 170,
+        "title": "Emotions Whisper",
+        "assetbundleName": "sound/scenario/bgm/bgm00144",
+        "assetbundleFileName": "bgm00144",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 387200,
+            "loop_end_sample": 3064045,
+            "loop_start_sec": 8.78,
+            "loop_end_sec": 69.479
+        }
+    },
+    {
+        "id": 171,
+        "title": "勝負あるところに我あり",
+        "assetbundleName": "sound/scenario/bgm/bgm00138",
+        "assetbundleFileName": "bgm00138",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 473216,
+            "loop_end_sample": 3227491,
+            "loop_start_sec": 10.731,
+            "loop_end_sec": 73.186
+        }
+    },
+    {
+        "id": 172,
+        "title": "繋がる心、幸せの環",
+        "assetbundleName": "sound/scenario/bgm/bgm00143",
+        "assetbundleFileName": "bgm00143",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 491648,
+            "loop_end_sample": 3666016,
+            "loop_start_sec": 11.148,
+            "loop_end_sec": 83.13
+        }
+    },
+    {
+        "id": 173,
+        "title": "Enjoy Sports!",
+        "assetbundleName": "sound/scenario/bgm/bgm00148",
+        "assetbundleFileName": "bgm00148",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 183424,
+            "loop_end_sample": 2711134,
+            "loop_start_sec": 4.159,
+            "loop_end_sec": 61.477
+        }
+    },
+    {
+        "id": 174,
+        "title": "Kick it down, Survive.",
+        "assetbundleName": "sound/scenario/bgm/bgm00153",
+        "assetbundleFileName": "bgm00153",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 263296,
+            "loop_end_sample": 4134785,
+            "loop_start_sec": 5.97,
+            "loop_end_sec": 93.759
+        }
+    },
+    {
+        "id": 175,
+        "title": "No Whereabouts",
+        "assetbundleName": "sound/scenario/bgm/bgm00150",
+        "assetbundleFileName": "bgm00150",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 29824,
+            "loop_end_sample": 3054355,
+            "loop_start_sec": 0.676,
+            "loop_end_sec": 69.26
+        }
+    },
+    {
+        "id": 176,
+        "title": "Lonely Meteor",
+        "assetbundleName": "sound/scenario/bgm/bgm00157",
+        "assetbundleFileName": "bgm00157",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 761984,
+            "loop_end_sample": 4995616,
+            "loop_start_sec": 17.279,
+            "loop_end_sec": 113.279
+        }
+    },
+    {
+        "id": 177,
+        "title": "encounter",
+        "assetbundleName": "sound/scenario/bgm/bgm00154",
+        "assetbundleFileName": "bgm00154",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1629312,
+            "loop_end_sample": 4525009,
+            "loop_start_sec": 36.946,
+            "loop_end_sec": 102.608
+        }
+    },
+    {
+        "id": 178,
+        "title": "Each Pain",
+        "assetbundleName": "sound/scenario/bgm/bgm00156",
+        "assetbundleFileName": "bgm00156",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 5002256,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 113.43
+        }
+    },
+    {
+        "id": 179,
+        "title": "Step by Step",
+        "assetbundleName": "sound/scenario/bgm/bgm00160",
+        "assetbundleFileName": "bgm00160",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1210496,
+            "loop_end_sample": 3091838,
+            "loop_start_sec": 27.449,
+            "loop_end_sec": 70.11
+        }
+    },
+    {
+        "id": 180,
+        "title": "ありのままの色で",
+        "assetbundleName": "sound/scenario/bgm/bgm00159",
+        "assetbundleFileName": "bgm00159",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 263296,
+            "loop_end_sample": 3321790,
+            "loop_start_sec": 5.97,
+            "loop_end_sec": 75.324
+        }
+    },
+    {
+        "id": 181,
+        "title": "キミと、その先の未来へ",
+        "assetbundleName": "mysekai/sound/bgm/music0017",
+        "assetbundleFileName": "music0017",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 362624,
+            "loop_end_sample": 4689911,
+            "loop_start_sec": 8.223,
+            "loop_end_sec": 106.347
+        }
+    },
+    {
+        "id": 182,
+        "title": "With Gratitude",
+        "assetbundleName": "mysekai/sound/bgm/music0018",
+        "assetbundleFileName": "music0018",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 374912,
+            "loop_end_sample": 1698426,
+            "loop_start_sec": 8.501,
+            "loop_end_sec": 38.513
+        }
+    },
+    {
+        "id": 183,
+        "title": "Always Together",
+        "assetbundleName": "mysekai/sound/bgm/music0019",
+        "assetbundleFileName": "music0019",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 66688,
+            "loop_end_sample": 2776836,
+            "loop_start_sec": 1.512,
+            "loop_end_sec": 62.967
+        }
+    },
+    {
+        "id": 184,
+        "title": "キミだけの足跡",
+        "assetbundleName": "mysekai/sound/bgm/music0020",
+        "assetbundleFileName": "music0020",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 158848,
+            "loop_end_sample": 2113245,
+            "loop_start_sec": 3.602,
+            "loop_end_sec": 47.919
+        }
+    },
+    {
+        "id": 185,
+        "title": "Praying World",
+        "assetbundleName": "mysekai/sound/bgm/music0021",
+        "assetbundleFileName": "music0021",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2684091,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 60.864
+        }
+    },
+    {
+        "id": 186,
+        "title": "lamplighter",
+        "assetbundleName": "sound/scenario/bgm/bgm00082",
+        "assetbundleFileName": "bgm00082",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 559232,
+            "loop_end_sample": 4957615,
+            "loop_start_sec": 12.681,
+            "loop_end_sec": 112.418
+        }
+    },
+    {
+        "id": 187,
+        "title": "Empty Heart",
+        "assetbundleName": "sound/scenario/bgm/bgm00146",
+        "assetbundleFileName": "bgm00146",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 651392,
+            "loop_end_sample": 3855825,
+            "loop_start_sec": 14.771,
+            "loop_end_sec": 87.434
+        }
+    },
+    {
+        "id": 188,
+        "title": "lamplighter（ピアノアレンジ）",
+        "assetbundleName": "sound/scenario/bgm/bgm00164",
+        "assetbundleFileName": "bgm00164",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 6101376,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 138.353
+        }
+    },
+    {
+        "id": 189,
+        "title": "乙女なハニーマスタード",
+        "assetbundleName": "sound/scenario/bgm/bgm00166",
+        "assetbundleFileName": "bgm00166",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 177280,
+            "loop_end_sample": 2630794,
+            "loop_start_sec": 4.02,
+            "loop_end_sec": 59.655
+        }
+    },
+    {
+        "id": 190,
+        "title": "Beckoning Forest",
+        "assetbundleName": "sound/scenario/bgm/bgm00167",
+        "assetbundleFileName": "bgm00167",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 571520,
+            "loop_end_sample": 3958143,
+            "loop_start_sec": 12.96,
+            "loop_end_sec": 89.754
+        }
+    },
+    {
+        "id": 191,
+        "title": "僕らの星座線",
+        "assetbundleName": "sound/scenario/bgm/bgm00168",
+        "assetbundleFileName": "bgm00168",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 263296,
+            "loop_end_sample": 5315298,
+            "loop_start_sec": 5.97,
+            "loop_end_sec": 120.528
+        }
+    },
+    {
+        "id": 192,
+        "title": "at 25:00",
+        "assetbundleName": "sound/scenario/bgm/bgm00169",
+        "assetbundleFileName": "bgm00169",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1136768,
+            "loop_end_sample": 5578211,
+            "loop_start_sec": 25.777,
+            "loop_end_sec": 126.49
+        }
+    },
+    {
+        "id": 193,
+        "title": "Ordinary Time",
+        "assetbundleName": "sound/scenario/bgm/bgm00170",
+        "assetbundleFileName": "bgm00170",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 4036993,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 91.542
+        }
+    },
+    {
+        "id": 194,
+        "title": "ぬくもりを共に",
+        "assetbundleName": "sound/scenario/bgm/bgm00171",
+        "assetbundleFileName": "bgm00171",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 503936,
+            "loop_end_sample": 4068659,
+            "loop_start_sec": 11.427,
+            "loop_end_sec": 92.26
+        }
+    },
+    {
+        "id": 195,
+        "title": "瞳の奥にあるもの",
+        "assetbundleName": "sound/scenario/bgm/bgm00172",
+        "assetbundleFileName": "bgm00172",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 393344,
+            "loop_end_sample": 4491078,
+            "loop_start_sec": 8.919,
+            "loop_end_sec": 101.839
+        }
+    },
+    {
+        "id": 196,
+        "title": "into deep",
+        "assetbundleName": "sound/scenario/bgm/bgm00173",
+        "assetbundleFileName": "bgm00173",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 4916075,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 111.476
+        }
+    },
+    {
+        "id": 197,
+        "title": "在りし日の影",
+        "assetbundleName": "sound/scenario/bgm/bgm00175",
+        "assetbundleFileName": "bgm00175",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 571520,
+            "loop_end_sample": 4009870,
+            "loop_start_sec": 12.96,
+            "loop_end_sec": 90.927
+        }
+    },
+    {
+        "id": 198,
+        "title": "Engraving of my soul",
+        "assetbundleName": "sound/scenario/bgm/bgm00178",
+        "assetbundleFileName": "bgm00178",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 287872,
+            "loop_end_sample": 3674494,
+            "loop_start_sec": 6.528,
+            "loop_end_sec": 83.322
+        }
+    },
+    {
+        "id": 199,
+        "title": "雪白の射手",
+        "assetbundleName": "sound/scenario/bgm/bgm00179",
+        "assetbundleFileName": "bgm00179",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1444992,
+            "loop_end_sample": 6315812,
+            "loop_start_sec": 32.766,
+            "loop_end_sec": 143.216
+        }
+    },
+    {
+        "id": 200,
+        "title": "穏やかな帰り道",
+        "assetbundleName": "sound/scenario/bgm/bgm00180",
+        "assetbundleFileName": "bgm00180",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 792704,
+            "loop_end_sample": 5216250,
+            "loop_start_sec": 17.975,
+            "loop_end_sec": 118.282
+        }
+    },
+    {
+        "id": 201,
+        "title": "薄明の一刻",
+        "assetbundleName": "sound/scenario/bgm/bgm00181",
+        "assetbundleFileName": "bgm00181",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1204352,
+            "loop_end_sample": 7594301,
+            "loop_start_sec": 27.31,
+            "loop_end_sec": 172.206
+        }
+    },
+    {
+        "id": 202,
+        "title": "New Landscape",
+        "assetbundleName": "mysekai/sound/bgm/music0022",
+        "assetbundleFileName": "music0022",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 657536,
+            "loop_end_sample": 4635813,
+            "loop_start_sec": 14.91,
+            "loop_end_sec": 105.12
+        }
+    },
+    {
+        "id": 203,
+        "title": "Crystal Blessing",
+        "assetbundleName": "mysekai/sound/bgm/music0023",
+        "assetbundleFileName": "music0023",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 374912,
+            "loop_end_sample": 1688269,
+            "loop_start_sec": 8.501,
+            "loop_end_sec": 38.283
+        }
+    },
+    {
+        "id": 204,
+        "title": "新春てんてこ舞い音頭",
+        "assetbundleName": "sound/scenario/bgm/bgm00185",
+        "assetbundleFileName": "bgm00185",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 350336,
+            "loop_end_sample": 2839839,
+            "loop_start_sec": 7.944,
+            "loop_end_sec": 64.395
+        }
+    },
+    {
+        "id": 205,
+        "title": "つなぐ音色、かけがえのないもの",
+        "assetbundleName": "sound/scenario/bgm/bgm00188",
+        "assetbundleFileName": "bgm00188",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 897152,
+            "loop_end_sample": 2465407,
+            "loop_start_sec": 20.344,
+            "loop_end_sec": 55.905
+        }
+    },
+    {
+        "id": 206,
+        "title": "Happy Toys March",
+        "assetbundleName": "sound/scenario/bgm/bgm00190",
+        "assetbundleFileName": "bgm00190",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 510080,
+            "loop_end_sample": 3381121,
+            "loop_start_sec": 11.566,
+            "loop_end_sec": 76.669
+        }
+    },
+    {
+        "id": 207,
+        "title": "space escape",
+        "assetbundleName": "sound/scenario/bgm/bgm00191",
+        "assetbundleFileName": "bgm00191",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1118336,
+            "loop_end_sample": 4755357,
+            "loop_start_sec": 25.359,
+            "loop_end_sec": 107.831
+        }
+    },
+    {
+        "id": 208,
+        "title": "残憶",
+        "assetbundleName": "sound/scenario/bgm/bgm00193",
+        "assetbundleFileName": "bgm00193",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 115840,
+            "loop_end_sample": 4708635,
+            "loop_start_sec": 2.627,
+            "loop_end_sec": 106.772
+        }
+    },
+    {
+        "id": 209,
+        "title": "Dreamy Time",
+        "assetbundleName": "sound/scenario/bgm/bgm00196",
+        "assetbundleFileName": "bgm00196",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 301184,
+            "loop_end_sample": 2846754,
+            "loop_start_sec": 6.83,
+            "loop_end_sec": 64.552
+        }
+    },
+    {
+        "id": 210,
+        "title": "Traits",
+        "assetbundleName": "mysekai/sound/bgm/music0024",
+        "assetbundleFileName": "music0024",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 5449249,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 123.566
+        }
+    },
+    {
+        "id": 211,
+        "title": "Cooking For You",
+        "assetbundleName": "sound/scenario/bgm/bgm00199",
+        "assetbundleFileName": "bgm00199",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 189568,
+            "loop_end_sample": 3615744,
+            "loop_start_sec": 4.299,
+            "loop_end_sec": 81.99
+        }
+    },
+    {
+        "id": 212,
+        "title": "道化師は夢うつつ",
+        "assetbundleName": "sound/scenario/bgm/bgm00200",
+        "assetbundleFileName": "bgm00200",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 164992,
+            "loop_end_sample": 2444977,
+            "loop_start_sec": 3.741,
+            "loop_end_sec": 55.442
+        }
+    },
+    {
+        "id": 213,
+        "title": "Fly high!",
+        "assetbundleName": "sound/scenario/bgm/bgm00206",
+        "assetbundleFileName": "bgm00206",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 313472,
+            "loop_end_sample": 3144307,
+            "loop_start_sec": 7.108,
+            "loop_end_sec": 71.299
+        }
+    },
+    {
+        "id": 214,
+        "title": "幾千光年の不死鳥",
+        "assetbundleName": "sound/scenario/bgm/bgm00208",
+        "assetbundleFileName": "bgm00208",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 897152,
+            "loop_end_sample": 5186549,
+            "loop_start_sec": 20.344,
+            "loop_end_sec": 117.609
+        }
+    },
+    {
+        "id": 215,
+        "title": "零下の対岸",
+        "assetbundleName": "sound/scenario/bgm/bgm00209",
+        "assetbundleFileName": "bgm00209",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2757151,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 62.52
+        }
+    },
+    {
+        "id": 216,
+        "title": "Symphony City",
+        "assetbundleName": "sound/scenario/bgm/bgm00211",
+        "assetbundleFileName": "bgm00211",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 17536,
+            "loop_end_sample": 3089529,
+            "loop_start_sec": 0.398,
+            "loop_end_sec": 70.057
+        }
+    },
+    {
+        "id": 217,
+        "title": "切なる想い",
+        "assetbundleName": "sound/scenario/bgm/bgm00215",
+        "assetbundleFileName": "bgm00215",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 128128,
+            "loop_end_sample": 3385999,
+            "loop_start_sec": 2.905,
+            "loop_end_sec": 76.78
+        }
+    },
+    {
+        "id": 218,
+        "title": "Melting in night",
+        "assetbundleName": "sound/scenario/bgm/bgm00217",
+        "assetbundleFileName": "bgm00217",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 491648,
+            "loop_end_sample": 4724565,
+            "loop_start_sec": 11.148,
+            "loop_end_sec": 107.133
+        }
+    },
+    {
+        "id": 219,
+        "title": "高鳴りは波のように",
+        "assetbundleName": "sound/scenario/bgm/bgm00218",
+        "assetbundleFileName": "bgm00218",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1179776,
+            "loop_end_sample": 4931062,
+            "loop_start_sec": 26.752,
+            "loop_end_sec": 111.815
+        }
+    },
+    {
+        "id": 220,
+        "title": "あなたへ捧ぐ鐘の音",
+        "assetbundleName": "sound/scenario/bgm/bgm00220",
+        "assetbundleFileName": "bgm00220",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 700544,
+            "loop_end_sample": 3997168,
+            "loop_start_sec": 15.885,
+            "loop_end_sec": 90.639
+        }
+    },
+    {
+        "id": 221,
+        "title": "The Evergreen World",
+        "assetbundleName": "mysekai/sound/bgm/music0025",
+        "assetbundleFileName": "music0025",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 2730112,
+            "loop_end_sample": 8430478,
+            "loop_start_sec": 61.907,
+            "loop_end_sec": 191.167
+        }
+    },
+    {
+        "id": 222,
+        "title": "Let's jump into SEKAI!",
+        "assetbundleName": "mysekai/sound/bgm/music0026",
+        "assetbundleFileName": "music0026",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 596096,
+            "loop_end_sample": 3344607,
+            "loop_start_sec": 13.517,
+            "loop_end_sec": 75.841
+        }
+    },
+    {
+        "id": 223,
+        "title": "Good Luck!",
+        "assetbundleName": "mysekai/sound/bgm/music0027",
+        "assetbundleFileName": "music0027",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 201856,
+            "loop_end_sample": 2807463,
+            "loop_start_sec": 4.577,
+            "loop_end_sec": 63.661
+        }
+    },
+    {
+        "id": 224,
+        "title": "Heartbeat Starline",
+        "assetbundleName": "mysekai/sound/bgm/music0028",
+        "assetbundleFileName": "music0028",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 510080,
+            "loop_end_sample": 3415023,
+            "loop_start_sec": 11.566,
+            "loop_end_sec": 77.438
+        }
+    },
+    {
+        "id": 225,
+        "title": "Hopeful Flower Garden",
+        "assetbundleName": "mysekai/sound/bgm/music0029",
+        "assetbundleFileName": "music0029",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 54400,
+            "loop_end_sample": 3228769,
+            "loop_start_sec": 1.234,
+            "loop_end_sec": 73.215
+        }
+    },
+    {
+        "id": 226,
+        "title": "Crossroads of the \"World\"",
+        "assetbundleName": "mysekai/sound/bgm/music0030",
+        "assetbundleFileName": "music0030",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 189568,
+            "loop_end_sample": 3012191,
+            "loop_start_sec": 4.299,
+            "loop_end_sec": 68.304
+        }
+    },
+    {
+        "id": 227,
+        "title": "Routes to Star Island",
+        "assetbundleName": "mysekai/sound/bgm/music0031",
+        "assetbundleFileName": "music0031",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 238720,
+            "loop_end_sample": 3220501,
+            "loop_start_sec": 5.413,
+            "loop_end_sec": 73.027
+        }
+    },
+    {
+        "id": 228,
+        "title": "Silent Snow Lake",
+        "assetbundleName": "mysekai/sound/bgm/music0032",
+        "assetbundleFileName": "music0032",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 989312,
+            "loop_end_sample": 7979500,
+            "loop_start_sec": 22.433,
+            "loop_end_sec": 180.941
+        }
+    },
+    {
+        "id": 229,
+        "title": "Keep it real.",
+        "assetbundleName": "sound/scenario/bgm/bgm00222",
+        "assetbundleFileName": "bgm00222",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 546944,
+            "loop_end_sample": 4358074,
+            "loop_start_sec": 12.402,
+            "loop_end_sec": 98.823
+        }
+    },
+    {
+        "id": 230,
+        "title": "魑魅魍魎は冥き闇より",
+        "assetbundleName": "sound/scenario/bgm/bgm00225",
+        "assetbundleFileName": "bgm00225",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1457280,
+            "loop_end_sample": 4938313,
+            "loop_start_sec": 33.045,
+            "loop_end_sec": 111.98
+        }
+    },
+    {
+        "id": 231,
+        "title": "優々たる絶佳",
+        "assetbundleName": "sound/scenario/bgm/bgm00226",
+        "assetbundleFileName": "bgm00226",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 528512,
+            "loop_end_sample": 4376937,
+            "loop_start_sec": 11.984,
+            "loop_end_sec": 99.25
+        }
+    },
+    {
+        "id": 232,
+        "title": "絆の告白",
+        "assetbundleName": "sound/scenario/bgm/bgm00227",
+        "assetbundleFileName": "bgm00227",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 817280,
+            "loop_end_sample": 4441639,
+            "loop_start_sec": 18.532,
+            "loop_end_sec": 100.717
+        }
+    },
+    {
+        "id": 233,
+        "title": "絆の侵食",
+        "assetbundleName": "sound/scenario/bgm/bgm00228",
+        "assetbundleFileName": "bgm00228",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1776768,
+            "loop_end_sample": 4480926,
+            "loop_start_sec": 40.29,
+            "loop_end_sec": 101.608
+        }
+    },
+    {
+        "id": 234,
+        "title": "何度でも、この４人で",
+        "assetbundleName": "sound/scenario/bgm/bgm00229",
+        "assetbundleFileName": "bgm00229",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 411776,
+            "loop_end_sample": 4446514,
+            "loop_start_sec": 9.337,
+            "loop_end_sec": 100.828
+        }
+    },
+    {
+        "id": 235,
+        "title": "say cheese!!",
+        "assetbundleName": "sound/scenario/bgm/bgm00230",
+        "assetbundleFileName": "bgm00230",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 712832,
+            "loop_end_sample": 3546874,
+            "loop_start_sec": 16.164,
+            "loop_end_sec": 80.428
+        }
+    },
+    {
+        "id": 236,
+        "title": "What We Wish For",
+        "assetbundleName": "sound/scenario/bgm/bgm00238",
+        "assetbundleFileName": "bgm00238",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 497792,
+            "loop_end_sample": 4305434,
+            "loop_start_sec": 11.288,
+            "loop_end_sec": 97.629
+        }
+    },
+    {
+        "id": 237,
+        "title": "Seasons Roll Around",
+        "assetbundleName": "sound/scenario/bgm/bgm00239",
+        "assetbundleFileName": "bgm00239",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 620672,
+            "loop_end_sample": 4148800,
+            "loop_start_sec": 14.074,
+            "loop_end_sec": 94.077
+        }
+    },
+    {
+        "id": 238,
+        "title": "“We run through the future!”",
+        "assetbundleName": "sound/scenario/bgm/bgm00240",
+        "assetbundleFileName": "bgm00240",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 669824,
+            "loop_end_sample": 3142043,
+            "loop_start_sec": 15.189,
+            "loop_end_sec": 71.248
+        }
+    },
+    {
+        "id": 239,
+        "title": "On this special day, thank you!",
+        "assetbundleName": "sound/scenario/bgm/bgm00241",
+        "assetbundleFileName": "bgm00241",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 688256,
+            "loop_end_sample": 3314608,
+            "loop_start_sec": 15.607,
+            "loop_end_sec": 75.161
+        }
+    },
+    {
+        "id": 240,
+        "title": "形なき存在",
+        "assetbundleName": "sound/scenario/bgm/bgm00245",
+        "assetbundleFileName": "bgm00245",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 344192,
+            "loop_end_sample": 3206511,
+            "loop_start_sec": 7.805,
+            "loop_end_sec": 72.71
+        }
+    },
+    {
+        "id": 241,
+        "title": "熱烈歓迎バーニンマイソウル",
+        "assetbundleName": "sound/scenario/bgm/bgm00248",
+        "assetbundleFileName": "bgm00248",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 244864,
+            "loop_end_sample": 2138552,
+            "loop_start_sec": 5.552,
+            "loop_end_sec": 48.493
+        }
+    },
+    {
+        "id": 242,
+        "title": "Grand Finale",
+        "assetbundleName": "sound/scenario/bgm/bgm00249",
+        "assetbundleFileName": "bgm00249",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1666176,
+            "loop_end_sample": 5657299,
+            "loop_start_sec": 37.782,
+            "loop_end_sec": 128.283
+        }
+    },
+    {
+        "id": 243,
+        "title": "あっちこっちアニマル大行進！",
+        "assetbundleName": "sound/scenario/bgm/bgm00254",
+        "assetbundleFileName": "bgm00254",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 417920,
+            "loop_end_sample": 3600715,
+            "loop_start_sec": 9.477,
+            "loop_end_sec": 81.649
+        }
+    },
+    {
+        "id": 244,
+        "title": "Dear memories",
+        "assetbundleName": "sound/scenario/bgm/bgm00256",
+        "assetbundleFileName": "bgm00256",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1339520,
+            "loop_end_sample": 4013763,
+            "loop_start_sec": 30.375,
+            "loop_end_sec": 91.015
+        }
+    },
+    {
+        "id": 245,
+        "title": "『大好き』",
+        "assetbundleName": "sound/scenario/bgm/bgm00257",
+        "assetbundleFileName": "bgm00257",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 301184,
+            "loop_end_sample": 4378368,
+            "loop_start_sec": 6.83,
+            "loop_end_sec": 99.283
+        }
+    },
+    {
+        "id": 246,
+        "title": "Break It Down!",
+        "assetbundleName": "sound/scenario/bgm/bgm00259",
+        "assetbundleFileName": "bgm00259",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 307328,
+            "loop_end_sample": 3129913,
+            "loop_start_sec": 6.969,
+            "loop_end_sec": 70.973
+        }
+    },
+    {
+        "id": 247,
+        "title": "southern cross",
+        "assetbundleName": "sound/scenario/bgm/bgm00263",
+        "assetbundleFileName": "bgm00263",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 565376,
+            "loop_end_sample": 3412320,
+            "loop_start_sec": 12.82,
+            "loop_end_sec": 77.377
+        }
+    },
+    {
+        "id": 248,
+        "title": "夢に向かってヨーソロー！",
+        "assetbundleName": "sound/scenario/bgm/bgm00265",
+        "assetbundleFileName": "bgm00265",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1327232,
+            "loop_end_sample": 3724428,
+            "loop_start_sec": 30.096,
+            "loop_end_sec": 84.454
+        }
+    },
+    {
+        "id": 249,
+        "title": "Bet all life",
+        "assetbundleName": "sound/scenario/bgm/bgm00266",
+        "assetbundleFileName": "bgm00266",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 712832,
+            "loop_end_sample": 4021151,
+            "loop_start_sec": 16.164,
+            "loop_end_sec": 91.183
+        }
+    },
+    {
+        "id": 250,
+        "title": "Thoughts of Each",
+        "assetbundleName": "sound/scenario/bgm/bgm00268",
+        "assetbundleFileName": "bgm00268",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 287872,
+            "loop_end_sample": 3110502,
+            "loop_start_sec": 6.528,
+            "loop_end_sec": 70.533
+        }
+    },
+    {
+        "id": 251,
+        "title": "『夜更け』",
+        "assetbundleName": "sound/scenario/bgm/bgm00272",
+        "assetbundleFileName": "bgm00272",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 164992,
+            "loop_end_sample": 3221041,
+            "loop_start_sec": 3.741,
+            "loop_end_sec": 73.039
+        }
+    },
+    {
+        "id": 252,
+        "title": "star trail",
+        "assetbundleName": "sound/scenario/bgm/bgm00273",
+        "assetbundleFileName": "bgm00273",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1118336,
+            "loop_end_sample": 4342447,
+            "loop_start_sec": 25.359,
+            "loop_end_sec": 98.468
+        }
+    },
+    {
+        "id": 253,
+        "title": "Beat yourself.",
+        "assetbundleName": "sound/scenario/bgm/bgm00274",
+        "assetbundleFileName": "bgm00274",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 528512,
+            "loop_end_sample": 2961773,
+            "loop_start_sec": 11.984,
+            "loop_end_sec": 67.16
+        }
+    },
+    {
+        "id": 255,
+        "title": "世と戯れ、命と舞う",
+        "assetbundleName": "sound/scenario/bgm/bgm00282",
+        "assetbundleFileName": "bgm00282",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 85120,
+            "loop_end_sample": 2731933,
+            "loop_start_sec": 1.93,
+            "loop_end_sec": 61.949
+        }
+    },
+    {
+        "id": 256,
+        "title": "きら星の旅人たち",
+        "assetbundleName": "sound/scenario/bgm/bgm00290",
+        "assetbundleFileName": "bgm00290",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 841856,
+            "loop_end_sample": 3754160,
+            "loop_start_sec": 19.09,
+            "loop_end_sec": 85.128
+        }
+    },
+    {
+        "id": 257,
+        "title": "Growing Colors",
+        "assetbundleName": "sound/scenario/bgm/bgm00293",
+        "assetbundleFileName": "bgm00293",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 35968,
+            "loop_end_sample": 3277321,
+            "loop_start_sec": 0.816,
+            "loop_end_sec": 74.316
+        }
+    },
+    {
+        "id": 258,
+        "title": "夢の舞台で、想いを重ねて",
+        "assetbundleName": "sound/scenario/bgm/bgm00296",
+        "assetbundleFileName": "bgm00296",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1130624,
+            "loop_end_sample": 4904862,
+            "loop_start_sec": 25.638,
+            "loop_end_sec": 111.221
+        }
+    },
+    {
+        "id": 259,
+        "title": "Unbearable Pain",
+        "assetbundleName": "sound/scenario/bgm/bgm00297",
+        "assetbundleFileName": "bgm00297",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 85120,
+            "loop_end_sample": 5139880,
+            "loop_start_sec": 1.93,
+            "loop_end_sec": 116.551
+        }
+    },
+    {
+        "id": 260,
+        "title": "Unstoppable",
+        "assetbundleName": "mysekai/sound/bgm/music0033",
+        "assetbundleFileName": "music0033",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 4521998,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 102.54
+        }
+    },
+    {
+        "id": 261,
+        "title": "Under the Wish Tree",
+        "assetbundleName": "mysekai/sound/bgm/music0034",
+        "assetbundleFileName": "music0034",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1721472,
+            "loop_end_sample": 5058651,
+            "loop_start_sec": 39.036,
+            "loop_end_sec": 114.709
+        }
+    },
+    {
+        "id": 262,
+        "title": "As You Wish",
+        "assetbundleName": "mysekai/sound/bgm/music0035",
+        "assetbundleFileName": "music0035",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 35968,
+            "loop_end_sample": 2822063,
+            "loop_start_sec": 0.816,
+            "loop_end_sec": 63.992
+        }
+    },
+    {
+        "id": 263,
+        "title": "こわ～いおばけの舞踏会！",
+        "assetbundleName": "sound/scenario/bgm/bgm00049",
+        "assetbundleFileName": "bgm00049",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 393344,
+            "loop_end_sample": 5012131,
+            "loop_start_sec": 8.919,
+            "loop_end_sec": 113.654
+        }
+    },
+    {
+        "id": 264,
+        "title": "Rejection Reaction",
+        "assetbundleName": "sound/scenario/bgm/bgm00129",
+        "assetbundleFileName": "bgm00129",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 2827904,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 64.125
+        }
+    },
+    {
+        "id": 265,
+        "title": "淡香の追憶",
+        "assetbundleName": "sound/scenario/bgm/bgm00195",
+        "assetbundleFileName": "bgm00195",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 331904,
+            "loop_end_sample": 4303026,
+            "loop_start_sec": 7.526,
+            "loop_end_sec": 97.574
+        }
+    },
+    {
+        "id": 266,
+        "title": "安らぎのおもてなし",
+        "assetbundleName": "sound/scenario/bgm/bgm00201",
+        "assetbundleFileName": "bgm00201",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 307328,
+            "loop_end_sample": 3276564,
+            "loop_start_sec": 6.969,
+            "loop_end_sec": 74.299
+        }
+    },
+    {
+        "id": 267,
+        "title": "Not Bad ONE Day",
+        "assetbundleName": "sound/scenario/bgm/bgm00089",
+        "assetbundleFileName": "bgm00089",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 718976,
+            "loop_end_sample": 4247249,
+            "loop_start_sec": 16.303,
+            "loop_end_sec": 96.31
+        }
+    },
+    {
+        "id": 268,
+        "title": "未踏のジャングル探検隊",
+        "assetbundleName": "sound/scenario/bgm/bgm00145",
+        "assetbundleFileName": "bgm00145",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 651392,
+            "loop_end_sample": 4114586,
+            "loop_start_sec": 14.771,
+            "loop_end_sec": 93.301
+        }
+    },
+    {
+        "id": 269,
+        "title": "笑顔でハッピーエンドを",
+        "assetbundleName": "sound/scenario/bgm/bgm00237",
+        "assetbundleFileName": "bgm00237",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 608384,
+            "loop_end_sample": 5785743,
+            "loop_start_sec": 13.796,
+            "loop_end_sec": 131.196
+        }
+    },
+    {
+        "id": 270,
+        "title": "Dawn",
+        "assetbundleName": "sound/scenario/bgm/bgm00242",
+        "assetbundleFileName": "bgm00242",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 226432,
+            "loop_end_sample": 2597501,
+            "loop_start_sec": 5.135,
+            "loop_end_sec": 58.9
+        }
+    },
+    {
+        "id": 271,
+        "title": "幸せの魔法をかけて",
+        "assetbundleName": "sound/scenario/bgm/bgm00284",
+        "assetbundleFileName": "bgm00284",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 768128,
+            "loop_end_sample": 3809356,
+            "loop_start_sec": 17.418,
+            "loop_end_sec": 86.38
+        }
+    },
+    {
+        "id": 272,
+        "title": "Music is Eloquent",
+        "assetbundleName": "sound/scenario/bgm/bgm00298",
+        "assetbundleFileName": "bgm00298",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 134272,
+            "loop_end_sample": 2854974,
+            "loop_start_sec": 3.045,
+            "loop_end_sec": 64.739
+        }
+    },
+    {
+        "id": 273,
+        "title": "Blue Moments",
+        "assetbundleName": "sound/scenario/bgm/bgm00300",
+        "assetbundleFileName": "bgm00300",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 485504,
+            "loop_end_sample": 2409146,
+            "loop_start_sec": 11.009,
+            "loop_end_sec": 54.629
+        }
+    },
+    {
+        "id": 274,
+        "title": "茜さす唐紅と君の頬",
+        "assetbundleName": "sound/scenario/bgm/bgm00301",
+        "assetbundleFileName": "bgm00301",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 195712,
+            "loop_end_sample": 3504021,
+            "loop_start_sec": 4.438,
+            "loop_end_sec": 79.456
+        }
+    },
+    {
+        "id": 275,
+        "title": "深淵より覗くもの",
+        "assetbundleName": "sound/scenario/bgm/bgm00106",
+        "assetbundleFileName": "bgm00106",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 85120,
+            "loop_end_sample": 2028992,
+            "loop_start_sec": 1.93,
+            "loop_end_sec": 46.009
+        }
+    },
+    {
+        "id": 276,
+        "title": "With Pain Still Lingering,Together",
+        "assetbundleName": "mysekai/sound/bgm/music0036",
+        "assetbundleFileName": "music0036",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 5764650,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 130.718
+        }
+    },
+    {
+        "id": 277,
+        "title": "鈴蘭のように",
+        "assetbundleName": "sound/scenario/bgm/bgm00303",
+        "assetbundleFileName": "bgm00303",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 903296,
+            "loop_end_sample": 4134599,
+            "loop_start_sec": 20.483,
+            "loop_end_sec": 93.755
+        }
+    },
+    {
+        "id": 278,
+        "title": "fleur enchantée",
+        "assetbundleName": "sound/scenario/bgm/bgm00304",
+        "assetbundleFileName": "bgm00304",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 128128,
+            "loop_end_sample": 1186029,
+            "loop_start_sec": 2.905,
+            "loop_end_sec": 26.894
+        }
+    },
+    {
+        "id": 279,
+        "title": "銀花の贈り物",
+        "assetbundleName": "sound/scenario/bgm/bgm00305",
+        "assetbundleFileName": "bgm00305",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 140416,
+            "loop_end_sample": 4110279,
+            "loop_start_sec": 3.184,
+            "loop_end_sec": 93.204
+        }
+    },
+    {
+        "id": 280,
+        "title": "Renewed Resolve",
+        "assetbundleName": "sound/scenario/bgm/bgm00306",
+        "assetbundleFileName": "bgm00306",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 393344,
+            "loop_end_sample": 2651948,
+            "loop_start_sec": 8.919,
+            "loop_end_sec": 60.135
+        }
+    },
+    {
+        "id": 281,
+        "title": "Unstoppable(Session)",
+        "assetbundleName": "mysekai/sound/bgm/music0037",
+        "assetbundleFileName": "music0037",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 8450944,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 191.631
+        }
+    },
+    {
+        "id": 282,
+        "title": "Shine",
+        "assetbundleName": "sound/scenario/bgm/bgm00080",
+        "assetbundleFileName": "bgm00080",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 177280,
+            "loop_end_sample": 2382392,
+            "loop_start_sec": 4.02,
+            "loop_end_sec": 54.022
+        }
+    },
+    {
+        "id": 283,
+        "title": "Another Street",
+        "assetbundleName": "sound/scenario/bgm/bgm00307",
+        "assetbundleFileName": "bgm00307",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1093760,
+            "loop_end_sample": 4797735,
+            "loop_start_sec": 24.802,
+            "loop_end_sec": 108.792
+        }
+    },
+    {
+        "id": 284,
+        "title": "『ありがとう』で繋がって",
+        "assetbundleName": "sound/scenario/bgm/bgm00311",
+        "assetbundleFileName": "bgm00311",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1038464,
+            "loop_end_sample": 4030325,
+            "loop_start_sec": 23.548,
+            "loop_end_sec": 91.391
+        }
+    },
+    {
+        "id": 285,
+        "title": "All For Meow!",
+        "assetbundleName": "sound/scenario/bgm/bgm00312",
+        "assetbundleFileName": "bgm00312",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 54400,
+            "loop_end_sample": 2877074,
+            "loop_start_sec": 1.234,
+            "loop_end_sec": 65.24
+        }
+    },
+    {
+        "id": 286,
+        "title": "4-Way Intersection Street",
+        "assetbundleName": "sound/scenario/bgm/bgm00316",
+        "assetbundleFileName": "bgm00316",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 811136,
+            "loop_end_sample": 4035843,
+            "loop_start_sec": 18.393,
+            "loop_end_sec": 91.516
+        }
+    },
+    {
+        "id": 287,
+        "title": "Rewritten Smile",
+        "assetbundleName": "sound/scenario/bgm/bgm00318",
+        "assetbundleFileName": "bgm00318",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 669824,
+            "loop_end_sample": 3127427,
+            "loop_start_sec": 15.189,
+            "loop_end_sec": 70.917
+        }
+    },
+    {
+        "id": 288,
+        "title": "thump-thump",
+        "assetbundleName": "sound/scenario/bgm/bgm00319",
+        "assetbundleFileName": "bgm00319",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 669824,
+            "loop_end_sample": 3623099,
+            "loop_start_sec": 15.189,
+            "loop_end_sec": 82.156
+        }
+    },
+    {
+        "id": 289,
+        "title": "I do me,back off!",
+        "assetbundleName": "mysekai/sound/bgm/music0038",
+        "assetbundleFileName": "music0038",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 4203452,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 95.316
+        }
+    },
+    {
+        "id": 290,
+        "title": "Unconnected Cord",
+        "assetbundleName": "sound/scenario/bgm/bgm00321",
+        "assetbundleFileName": "bgm00321",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 1167488,
+            "loop_end_sample": 4733904,
+            "loop_start_sec": 26.474,
+            "loop_end_sec": 107.345
+        }
+    },
+    {
+        "id": 291,
+        "title": "Star Fragmentation",
+        "assetbundleName": "sound/scenario/bgm/bgm00322",
+        "assetbundleFileName": "bgm00322",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 614528,
+            "loop_end_sample": 3033484,
+            "loop_start_sec": 13.935,
+            "loop_end_sec": 68.786
+        }
+    },
+    {
+        "id": 292,
+        "title": "Dreams like jewels",
+        "assetbundleName": "sound/scenario/bgm/bgm00326",
+        "assetbundleFileName": "bgm00326",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 128128,
+            "loop_end_sample": 2457536,
+            "loop_start_sec": 2.905,
+            "loop_end_sec": 55.726
+        }
+    },
+    {
+        "id": 293,
+        "title": "100億点のきゅん♡",
+        "assetbundleName": "sound/scenario/bgm/bgm00329",
+        "assetbundleFileName": "bgm00329",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 287872,
+            "loop_end_sample": 2315606,
+            "loop_start_sec": 6.528,
+            "loop_end_sec": 52.508
+        }
+    },
+    {
+        "id": 294,
+        "title": "Dear Flower of Hope",
+        "assetbundleName": "sound/scenario/bgm/bgm00330",
+        "assetbundleFileName": "bgm00330",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 195712,
+            "loop_end_sample": 4605217,
+            "loop_start_sec": 4.438,
+            "loop_end_sec": 104.427
+        }
+    },
+    {
+        "id": 295,
+        "title": "A World Linked by Wishes",
+        "assetbundleName": "sound/scenario/bgm/bgm00336",
+        "assetbundleFileName": "bgm00336",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 208000,
+            "loop_end_sample": 4196376,
+            "loop_start_sec": 4.717,
+            "loop_end_sec": 95.156
+        }
+    },
+    {
+        "id": 296,
+        "title": "きっとまた、会えるよね",
+        "assetbundleName": "sound/scenario/bgm/bgm00337",
+        "assetbundleFileName": "bgm00337",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 817280,
+            "loop_end_sample": 4046374,
+            "loop_start_sec": 18.532,
+            "loop_end_sec": 91.755
+        }
+    },
+    {
+        "id": 297,
+        "title": "鮮烈に、煌めく『今』を",
+        "assetbundleName": "sound/scenario/bgm/bgm00338",
+        "assetbundleFileName": "bgm00338",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 281728,
+            "loop_end_sample": 2900510,
+            "loop_start_sec": 6.388,
+            "loop_end_sec": 65.771
+        }
+    },
+    {
+        "id": 298,
+        "title": "Silent Bloom",
+        "assetbundleName": "sound/scenario/bgm/bgm00343",
+        "assetbundleFileName": "bgm00343",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 281728,
+            "loop_end_sample": 3648685,
+            "loop_start_sec": 6.388,
+            "loop_end_sec": 82.737
+        }
+    },
+    {
+        "id": 299,
+        "title": "本物のハッピーエンドを",
+        "assetbundleName": "mysekai/sound/bgm/music0039",
+        "assetbundleFileName": "music0039",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 7902669,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 179.199
+        }
+    },
+    {
+        "id": 300,
+        "title": "star trail(full version)",
+        "assetbundleName": "mysekai/sound/bgm/music0040",
+        "assetbundleFileName": "music0040",
+        "loop_info": {
+            "sample_rate": 44100,
+            "loop_start_sample": 5248,
+            "loop_end_sample": 4596156,
+            "loop_start_sec": 0.119,
+            "loop_end_sec": 104.221
+        }
+    }
+]
